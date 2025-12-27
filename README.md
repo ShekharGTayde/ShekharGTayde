@@ -56,11 +56,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShekharGTayde&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShekharGTayde&layout=compact&theme=tokyonight)
-
----
 
 ⭐ *Always eager to learn, build, and grow as a developer.*
