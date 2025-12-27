@@ -1,25 +1,71 @@
-<h1 align="center">Hi 👋, I'm Shekhar Tayde</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+## Hi 👋, I'm Shekhar Tayde  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhargtayde&label=Profile%20views&color=0e75b6&style=flat" alt="shekhargtayde" /> </p>
+🚀 A passionate **MERN Stack Developer** from India  
+🎓 Engineering student with a strong interest in **Software Development**  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhargtayde" alt="shekhargtayde" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+### 👨‍💻 About Me
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 🧠 Interested in **Full-Stack Development & Problem Solving**
+- ⚡ Actively building projects to strengthen my backend & frontend skills
 
-- 💬 Ask me about **React,Mongo,Express and Node**
+---
 
-- 📫 How to reach me **shekhartayade410@gmail.com**
+### 📫 How to Reach Me
+- 📧 Email: **shekhartayade410@gmail.com**
+- 💼 LinkedIn: [shekhar-tayade](https://www.linkedin.com/in/shekhar-tayade/)
+- 🐙 GitHub: [@ShekharGTayde](https://github.com/ShekharGTayde)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🤝 Connect With Me
+- LinkedIn: **shekhar-tayade**
+- GitHub: **@shekhargtayde**
+
+---
+
+### 🛠️ Languages & Tools
 <p align="left">
-<a href="https://linkedin.com/in/shekhar-tayade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhar-tayade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/shekhartayde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/shekhartayde/" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,docker,postman,cpp" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shekhargtayde&show_icons=true&locale=en&layout=compact" alt="shekhargtayde" /></p>
+### 🚀 Featured Projects
+- **Yatrii**  
+  🧩 My first full-stack web application built using the MERN stack  
+  🔗 GitHub: https://github.com/ShekharGTayde/yatrii
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shekhargtayde&show_icons=true&locale=en" alt="shekhargtayde" /></p>
+- **Pouranik**  
+  📚 A digital bookshelf to explore books, connect with readers, and build a reading habit  
+  🔗 GitHub: https://github.com/ShekharGTayde/Pouranik
+
+- **On-Chain Game Scoreboard**  
+  ⛓️ Blockchain-based game scoring system built using Clarity  
+  🔗 GitHub: https://github.com/ShekharGTayde/On-chain-game-scoreboard
+
+- **TNP Aptitude Prep**  
+  📝 Aptitude preparation platform for placement training  
+  🔗 GitHub: https://github.com/ShekharGTayde/tnp-Apti
+
+- **MyTodoList**  
+  ✅ Simple and efficient task management application  
+  🔗 GitHub: https://github.com/ShekharGTayde/MyTodoList
+
+- **iPhone.com Clone**  
+  🌐 Frontend clone project using JavaScript  
+  🔗 GitHub: https://github.com/ShekharGTayde/iphone.com
+
+
+---
+
+### 📊 GitHub Stats
+![Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShekharGTayde&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShekharGTayde&layout=compact&theme=tokyonight)
+
+---
+
+⭐ *Always eager to learn, build, and grow as a developer.*
