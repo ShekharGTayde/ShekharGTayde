@@ -20,11 +20,6 @@
 
 ---
 
-### 🤝 Connect With Me
-- LinkedIn: **shekhar-tayade**
-- GitHub: **@shekhargtayde**
-
----
 
 ### 🛠️ Languages & Tools
 <p align="left">
