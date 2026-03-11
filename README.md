@@ -45,10 +45,6 @@
   📝 Aptitude preparation platform for placement training  
   🔗 GitHub: https://github.com/ShekharGTayde/tnp-Apti
 
-- **MyTodoList**  
-  ✅ Simple and efficient task management application  
-  🔗 GitHub: https://github.com/ShekharGTayde/MyTodoList
-
 - **iPhone.com Clone**  
   🌐 Frontend clone project using JavaScript  
   🔗 GitHub: https://github.com/ShekharGTayde/iphone.com
